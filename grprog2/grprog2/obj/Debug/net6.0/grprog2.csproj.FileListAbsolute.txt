@@ -1,0 +1,15 @@
+C:\Users\Tec\source\repos\grprog2\grprog2\bin\Debug\net6.0\grprog2.exe
+C:\Users\Tec\source\repos\grprog2\grprog2\bin\Debug\net6.0\grprog2.deps.json
+C:\Users\Tec\source\repos\grprog2\grprog2\bin\Debug\net6.0\grprog2.runtimeconfig.json
+C:\Users\Tec\source\repos\grprog2\grprog2\bin\Debug\net6.0\grprog2.dll
+C:\Users\Tec\source\repos\grprog2\grprog2\bin\Debug\net6.0\grprog2.pdb
+C:\Users\Tec\source\repos\grprog2\grprog2\obj\Debug\net6.0\grprog2.csproj.AssemblyReference.cache
+C:\Users\Tec\source\repos\grprog2\grprog2\obj\Debug\net6.0\grprog2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tec\source\repos\grprog2\grprog2\obj\Debug\net6.0\grprog2.AssemblyInfoInputs.cache
+C:\Users\Tec\source\repos\grprog2\grprog2\obj\Debug\net6.0\grprog2.AssemblyInfo.cs
+C:\Users\Tec\source\repos\grprog2\grprog2\obj\Debug\net6.0\grprog2.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\grprog2\grprog2\obj\Debug\net6.0\grprog2.dll
+C:\Users\Tec\source\repos\grprog2\grprog2\obj\Debug\net6.0\refint\grprog2.dll
+C:\Users\Tec\source\repos\grprog2\grprog2\obj\Debug\net6.0\grprog2.pdb
+C:\Users\Tec\source\repos\grprog2\grprog2\obj\Debug\net6.0\grprog2.genruntimeconfig.cache
+C:\Users\Tec\source\repos\grprog2\grprog2\obj\Debug\net6.0\ref\grprog2.dll
