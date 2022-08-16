@@ -1,0 +1,15 @@
+C:\Users\Tec\source\repos\fodbold\fodbold\bin\Debug\net6.0\fodbold.exe
+C:\Users\Tec\source\repos\fodbold\fodbold\bin\Debug\net6.0\fodbold.deps.json
+C:\Users\Tec\source\repos\fodbold\fodbold\bin\Debug\net6.0\fodbold.runtimeconfig.json
+C:\Users\Tec\source\repos\fodbold\fodbold\bin\Debug\net6.0\fodbold.dll
+C:\Users\Tec\source\repos\fodbold\fodbold\bin\Debug\net6.0\fodbold.pdb
+C:\Users\Tec\source\repos\fodbold\fodbold\obj\Debug\net6.0\fodbold.csproj.AssemblyReference.cache
+C:\Users\Tec\source\repos\fodbold\fodbold\obj\Debug\net6.0\fodbold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tec\source\repos\fodbold\fodbold\obj\Debug\net6.0\fodbold.AssemblyInfoInputs.cache
+C:\Users\Tec\source\repos\fodbold\fodbold\obj\Debug\net6.0\fodbold.AssemblyInfo.cs
+C:\Users\Tec\source\repos\fodbold\fodbold\obj\Debug\net6.0\fodbold.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\fodbold\fodbold\obj\Debug\net6.0\fodbold.dll
+C:\Users\Tec\source\repos\fodbold\fodbold\obj\Debug\net6.0\refint\fodbold.dll
+C:\Users\Tec\source\repos\fodbold\fodbold\obj\Debug\net6.0\fodbold.pdb
+C:\Users\Tec\source\repos\fodbold\fodbold\obj\Debug\net6.0\fodbold.genruntimeconfig.cache
+C:\Users\Tec\source\repos\fodbold\fodbold\obj\Debug\net6.0\ref\fodbold.dll
