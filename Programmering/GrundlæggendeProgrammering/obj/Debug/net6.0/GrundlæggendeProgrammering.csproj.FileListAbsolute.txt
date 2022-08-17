@@ -1,0 +1,15 @@
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\bin\Debug\net6.0\GrundlæggendeProgrammering.exe
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\bin\Debug\net6.0\GrundlæggendeProgrammering.deps.json
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\bin\Debug\net6.0\GrundlæggendeProgrammering.runtimeconfig.json
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\bin\Debug\net6.0\GrundlæggendeProgrammering.dll
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\bin\Debug\net6.0\GrundlæggendeProgrammering.pdb
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\obj\Debug\net6.0\GrundlæggendeProgrammering.csproj.AssemblyReference.cache
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\obj\Debug\net6.0\GrundlæggendeProgrammering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\obj\Debug\net6.0\GrundlæggendeProgrammering.AssemblyInfoInputs.cache
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\obj\Debug\net6.0\GrundlæggendeProgrammering.AssemblyInfo.cs
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\obj\Debug\net6.0\GrundlæggendeProgrammering.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\obj\Debug\net6.0\GrundlæggendeProgrammering.dll
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\obj\Debug\net6.0\refint\GrundlæggendeProgrammering.dll
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\obj\Debug\net6.0\GrundlæggendeProgrammering.pdb
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\obj\Debug\net6.0\GrundlæggendeProgrammering.genruntimeconfig.cache
+C:\Users\Tec\source\repos\Programmering\GrundlæggendeProgrammering\obj\Debug\net6.0\ref\GrundlæggendeProgrammering.dll
