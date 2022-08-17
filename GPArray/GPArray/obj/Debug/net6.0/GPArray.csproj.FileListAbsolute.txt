@@ -1,0 +1,15 @@
+C:\Users\Tec\source\repos\GPArray\GPArray\bin\Debug\net6.0\GPArray.exe
+C:\Users\Tec\source\repos\GPArray\GPArray\bin\Debug\net6.0\GPArray.deps.json
+C:\Users\Tec\source\repos\GPArray\GPArray\bin\Debug\net6.0\GPArray.runtimeconfig.json
+C:\Users\Tec\source\repos\GPArray\GPArray\bin\Debug\net6.0\GPArray.dll
+C:\Users\Tec\source\repos\GPArray\GPArray\bin\Debug\net6.0\GPArray.pdb
+C:\Users\Tec\source\repos\GPArray\GPArray\obj\Debug\net6.0\GPArray.csproj.AssemblyReference.cache
+C:\Users\Tec\source\repos\GPArray\GPArray\obj\Debug\net6.0\GPArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tec\source\repos\GPArray\GPArray\obj\Debug\net6.0\GPArray.AssemblyInfoInputs.cache
+C:\Users\Tec\source\repos\GPArray\GPArray\obj\Debug\net6.0\GPArray.AssemblyInfo.cs
+C:\Users\Tec\source\repos\GPArray\GPArray\obj\Debug\net6.0\GPArray.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\GPArray\GPArray\obj\Debug\net6.0\GPArray.dll
+C:\Users\Tec\source\repos\GPArray\GPArray\obj\Debug\net6.0\refint\GPArray.dll
+C:\Users\Tec\source\repos\GPArray\GPArray\obj\Debug\net6.0\GPArray.pdb
+C:\Users\Tec\source\repos\GPArray\GPArray\obj\Debug\net6.0\GPArray.genruntimeconfig.cache
+C:\Users\Tec\source\repos\GPArray\GPArray\obj\Debug\net6.0\ref\GPArray.dll
