@@ -1,0 +1,15 @@
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\bin\Debug\net6.0\Udregningsprogram.exe
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\bin\Debug\net6.0\Udregningsprogram.deps.json
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\bin\Debug\net6.0\Udregningsprogram.runtimeconfig.json
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\bin\Debug\net6.0\Udregningsprogram.dll
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\bin\Debug\net6.0\Udregningsprogram.pdb
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\obj\Debug\net6.0\Udregningsprogram.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\obj\Debug\net6.0\Udregningsprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\obj\Debug\net6.0\Udregningsprogram.AssemblyInfoInputs.cache
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\obj\Debug\net6.0\Udregningsprogram.AssemblyInfo.cs
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\obj\Debug\net6.0\Udregningsprogram.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\obj\Debug\net6.0\Udregningsprogram.dll
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\obj\Debug\net6.0\refint\Udregningsprogram.dll
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\obj\Debug\net6.0\Udregningsprogram.pdb
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\obj\Debug\net6.0\Udregningsprogram.genruntimeconfig.cache
+C:\Users\Bruger\source\repos\Udregningsprogram\Udregningsprogram\obj\Debug\net6.0\ref\Udregningsprogram.dll
