@@ -1,0 +1,1 @@
+﻿new OOP002.MyClass("hellow world");
