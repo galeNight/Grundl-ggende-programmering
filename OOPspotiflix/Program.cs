@@ -1,0 +1,2 @@
+﻿using OOPspotiflix;
+new Gui();
