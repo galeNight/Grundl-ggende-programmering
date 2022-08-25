@@ -1,0 +1,15 @@
+C:\Users\Bruger\source\repos\OOP003\bin\Debug\net6.0\OOP003.exe
+C:\Users\Bruger\source\repos\OOP003\bin\Debug\net6.0\OOP003.deps.json
+C:\Users\Bruger\source\repos\OOP003\bin\Debug\net6.0\OOP003.runtimeconfig.json
+C:\Users\Bruger\source\repos\OOP003\bin\Debug\net6.0\OOP003.dll
+C:\Users\Bruger\source\repos\OOP003\bin\Debug\net6.0\OOP003.pdb
+C:\Users\Bruger\source\repos\OOP003\obj\Debug\net6.0\OOP003.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\OOP003\obj\Debug\net6.0\OOP003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\source\repos\OOP003\obj\Debug\net6.0\OOP003.AssemblyInfoInputs.cache
+C:\Users\Bruger\source\repos\OOP003\obj\Debug\net6.0\OOP003.AssemblyInfo.cs
+C:\Users\Bruger\source\repos\OOP003\obj\Debug\net6.0\OOP003.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\OOP003\obj\Debug\net6.0\OOP003.dll
+C:\Users\Bruger\source\repos\OOP003\obj\Debug\net6.0\refint\OOP003.dll
+C:\Users\Bruger\source\repos\OOP003\obj\Debug\net6.0\OOP003.pdb
+C:\Users\Bruger\source\repos\OOP003\obj\Debug\net6.0\OOP003.genruntimeconfig.cache
+C:\Users\Bruger\source\repos\OOP003\obj\Debug\net6.0\ref\OOP003.dll
