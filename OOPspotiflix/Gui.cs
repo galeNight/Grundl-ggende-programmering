@@ -1,4 +1,6 @@
 ﻿using System.Text.Json;
+using static OOPspotiflix.movie;
+
 namespace OOPspotiflix
 {
     internal class Gui
@@ -12,6 +14,8 @@ namespace OOPspotiflix
                 Menu();
             }
         }
+
+
         private void Menu()
         {
             Console.WriteLine("1 for movies\n2 for serise\n3 for music\n4 for save\n5 for load");
@@ -63,9 +67,18 @@ namespace OOPspotiflix
                     break;
             }
         }
-        private void ShowMovie(movie m)
+        private void ShowMovie( movie m)
         {
-            Console.WriteLine($"{m.Title} {m.GetLenght()}{m.Genre}{m.GetRelaseDate}{m.www}");
+            Console.Write("Search: ");
+            string? search = Console.ReadLine();
+            foreach (movie movie in data.movielist)
+            {
+                if (search != null)
+                {
+                    if (movie.Title.Contains(search) || movie.Genre.Contains(search))
+                        ShowMovie(movie);
+                }
+            }
         }
         private void ShowMovieList()
         {
@@ -77,11 +90,11 @@ namespace OOPspotiflix
         private void AddMovie()
         {
             movie Movie = new movie();
-            Movie.Title = Addstring("Title: ");
+            Movie.Title = Getstring("Title: ");
             Movie.Length = GetLenght();
-            Movie.Genre = Addstring("Grenre: ");
-            Movie.Relasedate = GetRelease();
-            Movie.www = Addstring("WWW: ");
+            Movie.Genre = Getstring("Grenre: ");
+            Movie.ReleaseDate = GetRelease();
+            Movie.WWW = Getstring("WWW: ");
 
             ShowMovie(Movie);
             Console.WriteLine("Confirm adding to list (Y/N)");
@@ -107,49 +120,6 @@ namespace OOPspotiflix
                         ShowMovie(movie);
                 }
             }
-        }
-        private void savedata()
-        {
-            string Json = JsonSerializer.Serialize(data);
-            File.WriteAllText(path, Json);
-            Console.WriteLine("file saved succesfully at " + path);
-        }
-        private void LoadData()
-        {
-            string json = File.ReadAllText(path);
-            data = System.Text.Json.JsonSerializer.Deserialize<data>(json);
-            Console.WriteLine("file loaded succesfully at " + path);
-        }
-        private DateTime GetLenght()
-        {
-            DateTime to = new();
-            do
-            {
-                Console.WriteLine("Lenght (hh:mm:ss");
-            }
-            while (!DateTime.TryParse("01-01-0001" + Console.ReadLine(), out to));
-            return to;
-        }
-        private DateTime GetRelease()
-        {
-            DateTime dateOnly;
-            do
-            {
-                Console.WriteLine("Relase Date (dd/mm/yyyy)");
-            }
-            while (!DateTime.TryParse(Console.ReadLine(), out dateOnly));
-            return dateOnly;
-        }
-        private string Addstring(string type)
-        {
-            string? indput;
-            do
-            {
-                Console.WriteLine(type);
-                indput = Console.ReadLine();
-            }
-            while (indput == null || indput == "");
-            return indput;
         }
 
 
@@ -177,26 +147,41 @@ namespace OOPspotiflix
         private void AddSeries()
         {
             Series series = new Series();
-            series.Title = Addstring("Title: ");
-            series.Lenght = GetLenght();
-            series.Genre = Addstring("Genre: ");
-            series.Relasedate = GetRelease();
-            series.WWW = Addstring("WWW: ");
+            series.Title = Getstring("Title: ");
+            series.Genre = Getstring("Genre: ");
+            series.WWW = Getstring("WWW: ");
+            //series.Lenght = GetLenght();
+            series.ReleaseDate = GetRelease();
+
+            Console.WriteLine("add Series (Y/N)");
+            if(Console.ReadKey().Key== ConsoleKey.Y)data.serieslist.Add(series);
+
+            Console.WriteLine("add episode?");
+            if (Console.ReadKey().Key == ConsoleKey.Y) AddEpisode(series);
 
         }
-        private void AddEpisode()
+        private void AddEpisode(Series series)
         {
-            Episode episode = new Episode();
-            episode.EPTitle = Addstring("Title: ");
-            episode.Relasedate = GetRelease();
-            episode.Season=
-            episode.Episodenum=
-            episode.Lenght=GetLenght();
-            
+            do
+            {
+                Episode episode = new Episode();
+                episode.Title = Getstring("Title: ");
+                episode.Season = GetInt("Season: ");
+                episode.EpisodeNum = GetInt("Episode number: ");
+                episode.Length = GetLenght();
+                episode.ReleaseDate = GetRelease();
+
+                Console.WriteLine("add episode(Y/N)");
+                if (Console.ReadKey().Key == ConsoleKey.Y) series.Episodes.Add(episode);
+                Console.WriteLine("add another episode");
+            }
+            while (Console.ReadKey().Key==ConsoleKey.Y);
+
+
         }
         private void ShowSeries(Series s)
         {
-            Console.WriteLine($"{s.Title}{s.GetLenght}{s.GetRelaseDate}{s.WWW}");
+            Console.WriteLine($"{s.Title}{s.Genre}{s.GetReleaseDate}{s.WWW}");
         }
         private void ShowSeriesList()
         {
@@ -244,11 +229,11 @@ namespace OOPspotiflix
         private void AddMusic()
         {
             Music music=new Music();
-            music.Title = Addstring("Title: ");
-            music.Artist = Addstring("Artist: ");
-            music.Genre = Addstring("Genre: ");
-            music.Album = Addstring("Album: ");
-            music.WWWW = Addstring("WWW: ");
+            music.Title = Getstring("Title: ");
+            music.Artist = Getstring("Artist: ");
+            music.Genre = Getstring("Genre: ");
+            music.Album = Getstring("Album: ");
+            music.WWWW = Getstring("WWW: ");
             music.Length = GetLenght();
             music.Relasedate = GetRelease();
 
@@ -287,6 +272,64 @@ namespace OOPspotiflix
                         ShowMusic(music);
                 }
             }
+        }
+
+
+        private void savedata()
+        {
+            string Json = JsonSerializer.Serialize(data);
+            File.WriteAllText(path, Json);
+            Console.WriteLine("file saved succesfully at " + path);
+        }
+        private void LoadData()
+        {
+            string json = File.ReadAllText(path);
+            data = System.Text.Json.JsonSerializer.Deserialize<data>(json);
+            Console.WriteLine("file loaded succesfully at " + path);
+        }
+        private DateTime GetLenght()
+        {
+            DateTime time;
+            do
+            {
+                Console.Write("Length (hh:mm:ss): ");
+            }
+            while (!DateTime.TryParse("0001-01-01 " + Console.ReadLine(), out time));
+            return time;
+        }
+        private DateTime GetRelease()
+        {
+            DateTime date;
+            string input = "";
+            do
+            {
+                Console.Write("Release Date (dd/mm/yyyy): ");
+                input = Console.ReadLine();
+                if (input == "") return DateTime.Today;
+            }
+            while (!DateTime.TryParse(input, out date));
+            return date;
+        }
+        private string Getstring(string type)
+        {
+            string? indput;
+            do
+            {
+                Console.WriteLine(type);
+                indput = Console.ReadLine();
+            }
+            while (indput == null || indput == "");
+            return indput;
+        }
+        private int GetInt(string request)
+        {
+            int i;
+            do
+            {
+                Console.Write(request);
+            }
+            while (!int.TryParse(Console.ReadLine(), out i));
+            return i;
         }
     }
 }

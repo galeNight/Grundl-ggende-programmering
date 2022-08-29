@@ -1,19 +1,10 @@
 ﻿namespace OOPspotiflix
 {
-    internal class movie
+    internal class movie : Media
     {
-        public string? Title { get; set; }
-        public DateTime Length { get; set; }
-        public string? Genre { get; set; }
-        public DateTime Relasedate { get; set; }
-        public string? www { get; set; }
-        public string GetLenght()
+        public string GetLength()
         {
             return Length.ToString("hh:mm");
-        }
-        public string GetRelaseDate()
-        {
-            return Relasedate.ToString("D");
         }
     }
 }
