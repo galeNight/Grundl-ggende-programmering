@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.3.32804.467
+VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPspotiflix", "OOPspotiflix.csproj", "{E62D5B54-DDD0-4220-9947-78F8F06C1C50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPspotiflix", "OOPspotiflix.csproj", "{9F2D5D47-9DE5-478F-A206-B275E54F0070}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E62D5B54-DDD0-4220-9947-78F8F06C1C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E62D5B54-DDD0-4220-9947-78F8F06C1C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E62D5B54-DDD0-4220-9947-78F8F06C1C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E62D5B54-DDD0-4220-9947-78F8F06C1C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F2D5D47-9DE5-478F-A206-B275E54F0070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2D5D47-9DE5-478F-A206-B275E54F0070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2D5D47-9DE5-478F-A206-B275E54F0070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2D5D47-9DE5-478F-A206-B275E54F0070}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FE371FBC-1398-4D45-BC1B-B6F98C2378FD}
+		SolutionGuid = {6DA8A293-2295-4184-B4FC-A89F15B7F658}
 	EndGlobalSection
 EndGlobal
