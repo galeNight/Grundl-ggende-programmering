@@ -52,7 +52,7 @@
             G = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("indtast højde");
             H = Convert.ToDouble(Console.ReadLine());
-            V = 1/3 * G * H;
+            V = (1/3d) * G * H;
             Console.WriteLine(V);
         }
         static void Keglestub()
@@ -65,7 +65,7 @@
             H = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("indtast radius");
             R = Convert.ToDouble(Console.ReadLine());
-            V = 1 / 3 * H * Math.PI * ((R * 2) + (R * 2) + R * R);
+            V = (1 / 3d) * H * Math.PI * (R * 2 + R * 2 + R * R);
             Console.WriteLine(V);
         }
         static void Kugle()
@@ -74,7 +74,7 @@
             Console.WriteLine("kugle");
             Console.WriteLine("indtast radius");
             R = Convert.ToDouble(Console.ReadLine());
-            V = 4 / 3 * (R * 3) * Math.PI;
+            V = (4 / 3d) * (R * 3) * Math.PI;
             Console.WriteLine(V);
         }
         static void Menu()
@@ -114,4 +114,3 @@
         }
     }
 }
-//ToDo list
