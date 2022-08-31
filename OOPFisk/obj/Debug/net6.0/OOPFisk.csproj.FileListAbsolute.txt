@@ -1,0 +1,15 @@
+C:\Users\Bruger\source\repos\OOPFisk\bin\Debug\net6.0\OOPFisk.exe
+C:\Users\Bruger\source\repos\OOPFisk\bin\Debug\net6.0\OOPFisk.deps.json
+C:\Users\Bruger\source\repos\OOPFisk\bin\Debug\net6.0\OOPFisk.runtimeconfig.json
+C:\Users\Bruger\source\repos\OOPFisk\bin\Debug\net6.0\OOPFisk.dll
+C:\Users\Bruger\source\repos\OOPFisk\bin\Debug\net6.0\OOPFisk.pdb
+C:\Users\Bruger\source\repos\OOPFisk\obj\Debug\net6.0\OOPFisk.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\OOPFisk\obj\Debug\net6.0\OOPFisk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\source\repos\OOPFisk\obj\Debug\net6.0\OOPFisk.AssemblyInfoInputs.cache
+C:\Users\Bruger\source\repos\OOPFisk\obj\Debug\net6.0\OOPFisk.AssemblyInfo.cs
+C:\Users\Bruger\source\repos\OOPFisk\obj\Debug\net6.0\OOPFisk.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\OOPFisk\obj\Debug\net6.0\OOPFisk.dll
+C:\Users\Bruger\source\repos\OOPFisk\obj\Debug\net6.0\refint\OOPFisk.dll
+C:\Users\Bruger\source\repos\OOPFisk\obj\Debug\net6.0\OOPFisk.pdb
+C:\Users\Bruger\source\repos\OOPFisk\obj\Debug\net6.0\OOPFisk.genruntimeconfig.cache
+C:\Users\Bruger\source\repos\OOPFisk\obj\Debug\net6.0\ref\OOPFisk.dll

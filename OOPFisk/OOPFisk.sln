@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPFisk", "OOPFisk.csproj", "{CBF47A15-668E-4429-9733-2D39CF52C2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF47A15-668E-4429-9733-2D39CF52C2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF47A15-668E-4429-9733-2D39CF52C2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF47A15-668E-4429-9733-2D39CF52C2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF47A15-668E-4429-9733-2D39CF52C2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA99674B-6618-4A08-B266-2C0937F23679}
+	EndGlobalSection
+EndGlobal

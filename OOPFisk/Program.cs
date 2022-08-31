@@ -1,0 +1,2 @@
+﻿using OOPFisk;
+new Gui();
