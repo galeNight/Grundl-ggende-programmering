@@ -1,0 +1,15 @@
+C:\Users\Tec\source\repos\arbejdsopgave\bin\Debug\net6.0\arbejdsopgave.exe
+C:\Users\Tec\source\repos\arbejdsopgave\bin\Debug\net6.0\arbejdsopgave.deps.json
+C:\Users\Tec\source\repos\arbejdsopgave\bin\Debug\net6.0\arbejdsopgave.runtimeconfig.json
+C:\Users\Tec\source\repos\arbejdsopgave\bin\Debug\net6.0\arbejdsopgave.dll
+C:\Users\Tec\source\repos\arbejdsopgave\bin\Debug\net6.0\arbejdsopgave.pdb
+C:\Users\Tec\source\repos\arbejdsopgave\obj\Debug\net6.0\arbejdsopgave.csproj.AssemblyReference.cache
+C:\Users\Tec\source\repos\arbejdsopgave\obj\Debug\net6.0\arbejdsopgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tec\source\repos\arbejdsopgave\obj\Debug\net6.0\arbejdsopgave.AssemblyInfoInputs.cache
+C:\Users\Tec\source\repos\arbejdsopgave\obj\Debug\net6.0\arbejdsopgave.AssemblyInfo.cs
+C:\Users\Tec\source\repos\arbejdsopgave\obj\Debug\net6.0\arbejdsopgave.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\arbejdsopgave\obj\Debug\net6.0\arbejdsopgave.dll
+C:\Users\Tec\source\repos\arbejdsopgave\obj\Debug\net6.0\refint\arbejdsopgave.dll
+C:\Users\Tec\source\repos\arbejdsopgave\obj\Debug\net6.0\arbejdsopgave.pdb
+C:\Users\Tec\source\repos\arbejdsopgave\obj\Debug\net6.0\arbejdsopgave.genruntimeconfig.cache
+C:\Users\Tec\source\repos\arbejdsopgave\obj\Debug\net6.0\ref\arbejdsopgave.dll
