@@ -1,0 +1,2 @@
+﻿using OOPRPG;
+new Creation();
