@@ -1,0 +1,15 @@
+C:\Users\Tec\source\repos\OOPGlactia\bin\Debug\net6.0\OOPGlactia.exe
+C:\Users\Tec\source\repos\OOPGlactia\bin\Debug\net6.0\OOPGlactia.deps.json
+C:\Users\Tec\source\repos\OOPGlactia\bin\Debug\net6.0\OOPGlactia.runtimeconfig.json
+C:\Users\Tec\source\repos\OOPGlactia\bin\Debug\net6.0\OOPGlactia.dll
+C:\Users\Tec\source\repos\OOPGlactia\bin\Debug\net6.0\OOPGlactia.pdb
+C:\Users\Tec\source\repos\OOPGlactia\obj\Debug\net6.0\OOPGlactia.csproj.AssemblyReference.cache
+C:\Users\Tec\source\repos\OOPGlactia\obj\Debug\net6.0\OOPGlactia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tec\source\repos\OOPGlactia\obj\Debug\net6.0\OOPGlactia.AssemblyInfoInputs.cache
+C:\Users\Tec\source\repos\OOPGlactia\obj\Debug\net6.0\OOPGlactia.AssemblyInfo.cs
+C:\Users\Tec\source\repos\OOPGlactia\obj\Debug\net6.0\OOPGlactia.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\OOPGlactia\obj\Debug\net6.0\OOPGlactia.dll
+C:\Users\Tec\source\repos\OOPGlactia\obj\Debug\net6.0\refint\OOPGlactia.dll
+C:\Users\Tec\source\repos\OOPGlactia\obj\Debug\net6.0\OOPGlactia.pdb
+C:\Users\Tec\source\repos\OOPGlactia\obj\Debug\net6.0\OOPGlactia.genruntimeconfig.cache
+C:\Users\Tec\source\repos\OOPGlactia\obj\Debug\net6.0\ref\OOPGlactia.dll
